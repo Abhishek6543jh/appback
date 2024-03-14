@@ -1,0 +1,8 @@
+{
+    "parking": {
+      "A1": { "available": true },
+      "A2": { "available": true },
+      "A3": { "available": false }
+    }
+  }
+  
